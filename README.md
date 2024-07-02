@@ -1,7 +1,7 @@
 # Stage One
 Task Description
 Set up a basic web server in your preferred stack. Deploy it to any free hosting platform and expose an API endpoint that conforms to the criteria below:
-Endpoint: [GET] <example.com>/api/hello?visitor_name="Mark" (where <example.com> is your server origin)
+Endpoint: ```[GET] <example.com>/api/hello?visitor_name="Mark"``` (where ```<example.com>``` is your server origin)
 Response:
 ```
 {
@@ -10,3 +10,4 @@ Response:
   "greeting": "Hello, Mark!, the temperature is 11 degrees Celcius in New York"
 }
 ```
+[Click Here](https://spectacular-avie-ohmitek-58ff56d6.koyeb.app/api/hello?visitor_name=Mark) to test the live endpoint.
